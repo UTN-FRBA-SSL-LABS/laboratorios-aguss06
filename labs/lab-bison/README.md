@@ -231,14 +231,14 @@ P1=SHIFT
 Opciones: `SI` | `NO`
 
 ```
-P2=Si
+P2=SI
 ```
 
 **P3** — ¿`yyerrok` resetea el estado de error de Bison para que el parser pueda continuar normalmente después de una regla de recuperación?
 Opciones: `SI` | `NO`
 
 ```
-P3=Si
+P3=SI
 ```
 
 ---
